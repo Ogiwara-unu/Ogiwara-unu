@@ -42,7 +42,7 @@
 <tr>
   <td width="25%" align="center">
     <a href="https://github.com/Ogiwara-unu/SDGI_doc" target="blank">
-      <img align="center" width="100%" src="assets/sdgi_doc.png" alt="SDGI_doc" />
+      <img align="center" width="100%" src="https://raw.githubusercontent.com/Ogiwara-unu/Ogiwara-unu/main/assets/sdgi_doc.png" alt="SDGI_doc" />
     </a>
     <p>
       <a href="https://github.com/Ogiwara-unu/SDGI_doc" target="blank">
@@ -53,7 +53,7 @@
 
   <td width="25%" align="center">
     <a href="https://github.com/Ogiwara-unu/PokeProject" target="blank">
-      <img align="center" width="100%" src="assets/pokeProject.png" alt="PokeProject" />
+      <img align="center" width="100%" src="https://raw.githubusercontent.com/Ogiwara-unu/Ogiwara-unu/main/assets/pokeProject.png" alt="PokeProject" />
     </a>
     <p>
       <a href="https://github.com/Ogiwara-unu/PokeProject" target="blank">
@@ -63,6 +63,7 @@
   </td>
 </tr>
 </table>
+
 
 <br><br><br><br><br><br><br><br><br>
 

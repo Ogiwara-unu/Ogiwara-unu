@@ -12,7 +12,7 @@
 
 ## About Me
 
-- 🎓 Systems Engineering student at the [National University of Costa Rica] (https://www.una.ac.cr/).
+- 🎓 Systems Engineering student at the [National University of Costa Rica](https://www.una.ac.cr/)
 - 🏡Lives in **Guanacaste Costa Rica**
 - 👨‍💻 Interested in backend development, especially in designing and building APIs.
 - 🚀 Always eager to learn new technologies and improve my skills as a developer.

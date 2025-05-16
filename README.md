@@ -1,5 +1,3 @@
-<h1 align="center">Hola soy Randall 👋</h1> 
-
 <p align="left">
   <a href="https://www.youtube.com/@OgiGuarra" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.tiktok.com/@ogiwara_fms" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
@@ -11,13 +9,10 @@
 
 ## Sobre mí 
 
-🎓 Estudiante de Ingeniería en Sistemas en la Universidad Nacional de Costa Rica (UNA).
-
-👨‍💻 Me interesa el desarrollo backend, especialmente el diseño y construcción de APIs.
-
-🚀 Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades como desarrollador.
-
-📫 **Contacto**: randall.alvarez.ch@gmail.com
+🎓 Estudiante de Ingeniería en Sistemas en la Universidad Nacional de Costa Rica (UNA).  
+👨‍💻 Me interesa el desarrollo backend, especialmente el diseño y construcción de APIs.  
+🚀 Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades como desarrollador.  
+📫 **Contacto**: randall.alvarez.ch@gmail.com  
 
 <br>
 
@@ -25,7 +20,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,cpp,java,php,py,css,html,js,angular,express,nodejs,ionic,mysql,sqlite,firebase,git,github,docker,postman,vscode,bash&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,cpp,java,php,py,css,html,js,ts,angular,react,jquery,express,nodejs,ionic,bootstrap,azure,mysql,sqlite,firebase,git,github,docker,postman,vscode,vstudio,figma,markdown,bash,laravel&perline=12" />
   </a>
 </p>
 
@@ -33,6 +28,7 @@
   <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </p>
 
 <br>
@@ -42,20 +38,24 @@
 <table align="left">
 <tr>
   <td width="25%" align="center">
-    <a >
-      <img align="center" width=100% src="assets/sdgi_doc.png" alt="VIDEO" />
+    <a href="https://github.com/Ogiwara-unu/SDGI_doc" target="blank">
+      <img align="center" width="100%" src="assets/sdgi_doc.png" alt="SDGI_doc" />
     </a>
     <p>
-      <a href="https://github.com/Ogiwara-unu/SDGI_doc" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/Ogiwara-unu/SDGI_doc" target="blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </p>
   </td>
 
   <td width="25%" align="center">
-    <a >
-      <img align="center" width=100% src="assets/pokeProject.png" alt="VIDEO" />
+    <a href="https://github.com/Ogiwara-unu/PokeProject" target="blank">
+      <img align="center" width="100%" src="assets/pokeProject.png" alt="PokeProject" />
     </a>
     <p>
-      <a href="https://github.com/Ogiwara-unu/PokeProject" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/Ogiwara-unu/PokeProject" target="blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
     </p>
   </td>
 </tr>

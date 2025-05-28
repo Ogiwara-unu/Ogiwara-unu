@@ -65,23 +65,9 @@
 </table>
 
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
-## GitHub :octocat:
-
-<p align="center">
-<table align="left">
-<tr>
-<td width="60%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ogiwara-unu&theme=dark&hide_border=false" alt="GitHub streak" />
-</td>
-<td width="40%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ogiwara-unu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
-<div align="left">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Ogiwara-unu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" width="84%" />
   </a>

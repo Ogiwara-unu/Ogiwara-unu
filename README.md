@@ -67,7 +67,7 @@
 
 <br><br><br><br>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Ogiwara-unu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" width="84%" />
   </a>

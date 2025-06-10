@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ogiwara-unu&color=ff69b4" alt="Profile views" />
+  ![GitHub followers](https://img.shields.io/github/followers/Ogiwara-unu?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Ogiwara-unu?style=social) <img src="https://komarev.com/ghpvc/?username=Ogiwara-unu" alt="randall"/>
   <img src="https://img.shields.io/github/followers/Ogiwara-unu?style=social" />
   <img src="https://img.shields.io/github/stars/Ogiwara-unu?style=social" />
 </p>

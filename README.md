@@ -2,10 +2,16 @@
 <h3 align="center">🤑 Backend Developer | 🎓 Systems Engineering Student </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ogiwara-unu&color=ff69b4" alt="Profile views" />
-  ![GitHub followers](https://img.shields.io/github/followers/Ogiwara-unu?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Ogiwara-unu?style=social) <img src="https://komarev.com/ghpvc/?username=Ogiwara-unu" alt="randall"/>
+  ![GitHub followers](https://img.shields.io/github/followers/Ogiwara-unu?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Ogiwara-unu?style=social) <img src="https://komarev.com/ghpvc/?username=Ogiwara-unu" alt="Ogiwara-unu" />
   <img src="https://img.shields.io/github/followers/Ogiwara-unu?style=social" />
   <img src="https://img.shields.io/github/stars/Ogiwara-unu?style=social" />
+</p>
+
+<p align="left">
+  <a href="https://www.youtube.com/@OgiGuarra" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>Add commentMore actions
+  <a href="https://www.tiktok.com/@ogiwara_fms" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.linkedin.com/in/randallalv" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:randall.alvarez.ch@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 <br>

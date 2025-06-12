@@ -18,11 +18,7 @@
   <a href="https://www.linkedin.com/in/randallalv" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:randall.alvarez.ch@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
-<<<<<<< HEAD
-=======
 
-
->>>>>>> 75074c88dd9638121b56e3e19af0589cd899deca
 <br>
 
 ## About Me

@@ -1,19 +1,23 @@
 <h1 align="center">🙈 Hi there, I'm Randall! </h1>
 <h3 align="center">🤑 Backend Developer | 🎓 Systems Engineering Student </h3>
 
+
 <p align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/Ogiwara-unu?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Ogiwara-unu?style=social) <img src="https://komarev.com/ghpvc/?username=Ogiwara-unu" alt="Ogiwara-unu" />
+  <img src="https://komarev.com/ghpvc/?username=Ogiwara-unu&color=000000" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Ogiwara-unu?style=social" />
   <img src="https://img.shields.io/github/stars/Ogiwara-unu?style=social" />
 </p>
+  
+  <br>
+
+ <h2 align="left">Connect With Me</h3>
 
 <p align="left">
-  <a href="https://www.youtube.com/@OgiGuarra" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>Add commentMore actions
+  <a href="https://www.youtube.com/@OgiGuarra" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.tiktok.com/@ogiwara_fms" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="https://www.linkedin.com/in/randallalv" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:randall.alvarez.ch@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
-
 <br>
 
 ## About Me
@@ -63,6 +67,17 @@
     </a>
     <p>
       <a href="https://github.com/Ogiwara-unu/PokeProject" target="blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </p>
+  </td>
+
+  <td width="25%" align="center">
+    <a href="https://github.com/Ogiwara-unu/OkaryMsc" target="blank">
+      <img align="center" width="100%" src="https://raw.githubusercontent.com/Ogiwara-unu/Ogiwara-unu/main/assets/okary.png" alt="okarysMsc" />
+    </a>
+    <p>
+      <a href="https://github.com/Ogiwara-unu/OkaryMsc" target="blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </p>
